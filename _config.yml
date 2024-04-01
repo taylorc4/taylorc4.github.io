@@ -12,7 +12,7 @@ title                    : "Taylor Campbell's Portfolio"
 title_separator          : "-"
 name                     : &name "Taylor"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://taylorc4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taylorc4/taylorc4.github.io"
 
@@ -21,9 +21,9 @@ repository               : "taylorc4/taylorc4.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://taylorc4.github.io/images/profile.png"
+  avatar           : "profile.png"
   name             : "Taylor Campbell"
-  pronouns         : "she/her"  
+  pronouns         : "she/her/test"  
   bio              : "Environmental Science student at UMBC"
   location         : "Catonsville, MD"
   employer         : "University of Maryland, Baltimore County"
