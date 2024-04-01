@@ -21,7 +21,7 @@ repository               : "taylorc4/taylorc4.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_taylor.png"
+  avatar           : "profile.png"
   name             : "Taylor Campbell"
   pronouns         : "she/her"  
   bio              : "Undergrad at UMBC in the GES Department"
