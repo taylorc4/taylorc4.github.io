@@ -21,9 +21,9 @@ repository               : "taylorc4/taylorc4.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile"
   name             : "Taylor Campbell"
-  pronouns         : "she/her/png"  
+  pronouns         : "she/her"  
   bio              : "Undergrad at UMBC in the GES Department"
   location         : "Catonsville, MD"
   employer         : "University of Maryland, Baltimore County"
