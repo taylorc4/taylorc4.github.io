@@ -11,52 +11,30 @@ redirect_from:
 
 Education
 ======
+* High school degree from Catonsville High School 😎
 * B.S. in Environmental Science & Geography, University of Maryland Baltimore County, 2025 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2020 to Present: Retail Associate
+  * Objects Found and The Artful Flea
+  * Duties includes: Making consignment appointments for clients, creating bi-monthly newsletters, organizing and promoting seasonal events (scavenger hunts, estate sales, jewelry shows, etc.) 
+  * Supervisor: Reggie Sajauskas
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023 to Present: Communications Intern
+  * University of Maryland, Baltimore County
+  * Duties included: Promoting events for the GES Department via social networks
+  * Supervisors: Drs. Maggie Holland, Charlie Kaylor, and Dillon Mahmoudi
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Event and Product Marketing
+* GIS Software
+  * ESRI ArcGIS Pro
+  * ESRI Field Maps
+  * RStudio (expected)
+* Creative & Analytical Skills
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer for and perform with the Catonsville High School Steel Drum Band
