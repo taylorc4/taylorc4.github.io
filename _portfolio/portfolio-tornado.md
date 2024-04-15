@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 Map
+<br/><img src='/images/Tornado_Map.png'>
