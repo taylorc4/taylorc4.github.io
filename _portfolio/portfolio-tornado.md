@@ -4,5 +4,5 @@ excerpt: "Tornado map of America<br/><img src='/images/Tornado_Map388x300.png'>"
 collection: portfolio
 ---
 
-Map
+This map was created in Cheryl Knott's spring session of Statistical and Thematic Cartography at UMBC.
 <br/><img src='/images/Tornado_Map.png'>
