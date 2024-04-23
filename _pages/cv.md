@@ -15,7 +15,7 @@ Education
 * B.S. in Environmental Science & Geography, University of Maryland Baltimore County, 2025 (expected)
 
 Work experience
-======
+------
 * Fall 2020 to Present: Retail Associate
   * Objects Found and The Artful Flea
   * Duties includes: Making consignment appointments for clients, creating bi-monthly newsletters, organizing and promoting seasonal events (scavenger hunts, estate sales, jewelry shows, etc.) 
@@ -27,7 +27,7 @@ Work experience
   * Supervisors: Drs. Maggie Holland, Charlie Kaylor, and Dillon Mahmoudi
   
 Skills
-======
+------
 * Event and Product Marketing
 * GIS Software
   * ESRI ArcGIS Pro
@@ -36,5 +36,5 @@ Skills
 * Creative & Analytical Skills
   
 Service and leadership
-======
+------
 * Volunteer for and perform with the Catonsville High School Steel Drum Band
