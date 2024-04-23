@@ -6,11 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👩‍🎓 Five-year bachelors/masters student at the University of Maryland, Baltimore County (UMBC)   
-📣 Communications intern for UMBC's Geography and Environmental Systems Department   
+👩‍🎓 Five-year bachelors/masters student at the <a href="https://umbc.edu">University of Maryland Baltimore County</a> (UMBC)   
+📣 Communications intern for UMBC's <a href="https://ges.umbc.edu">Geography and Environmental Systems Department</a>   
 🛋 Retail Associate at Objects Found - Antiques & Consignment
 
-<a href="https://umbc.edu">University of Maryland Baltimore County</a>
 
 Skills and Interests
 ------
