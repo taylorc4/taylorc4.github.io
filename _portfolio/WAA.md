@@ -6,4 +6,5 @@ collection: portfolio
 
 The StoryMap (linked below) was developed during my summer internship at Maryland's Department of Natural Resources office in Annapolis, under the
 supervision of Sara Carpenter.
+
 https://storymaps.arcgis.com/stories/b97fcfa6836c42dcafd64be91ad2f1fe
